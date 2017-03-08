@@ -1,2 +1,3 @@
-# UCI-CS137
 Web application development project for Spring 2016 with JP, Lewis and Zoey.  
+Forked original version but JP set it private, and he was off for US army bootcamp, so I cannot really contact him to set it public...
+So I upload all files again.
